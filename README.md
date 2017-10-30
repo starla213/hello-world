@@ -23,6 +23,6 @@ I just want an app that:
        5. Let's me create a price book, for each store I shop at, of the items/brands that I frequently purchase and add the 
           price and price per unit, to items added to a shopping list. 
           
- Maybe it is a lot... But I suppose that's why I have chosed to learn how to create my own app. 
+ Maybe it is a lot... But I suppose that's why I have chosen to learn how to create my own app. 
  
  Wish me luck!
